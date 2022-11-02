@@ -1,0 +1,8 @@
+
+`
+java:S2259-"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(Ç×£Ô
+`
+java:S22594"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(Ç×£Ô
+n
+java:S1128
+"LRemove this unused import 'com.team.cobi.purchase.entity.QPurchaseEstimate'.(É Ÿÿÿÿÿÿ8¼Êç„Á0

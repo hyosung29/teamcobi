@@ -1,0 +1,10 @@
+
+_
+java:S11921"IDefine a constant instead of duplicating this literal "/images/" 3 times.(«²æ®
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿³šä
+R
+java:S25890"7Remove this expression which always evaluates to "true"(Þž—àýÿÿÿÿ
+R
+java:S2589J"7Remove this expression which always evaluates to "true"(Þž—àýÿÿÿÿ
+_
+java:S3986d"DMake sure that week Year "YY" is expected here instead of Year "yy".(¬ÌÛ‰üÿÿÿÿ

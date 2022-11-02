@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñõŒÎÿÿÿÿÿ
+e
+java:S2259%"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(³¬‹­ùÿÿÿÿ
+€
+java:S1128"cRemove this unused import 'com.team.cobi.employee.departmentManagement.dto.DepartmentCodeResponse'.(’ÌÅÎ8Ó„çÌ¿0

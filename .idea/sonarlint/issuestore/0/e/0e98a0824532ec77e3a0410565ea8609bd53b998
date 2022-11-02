@@ -1,0 +1,5 @@
+
+y
+java:S2229,"\"createClientNum's" @Transactional requirement is incompatible with the one for this method.(Ëô½È8ÎïúœÁ0
+v
+java:S2229a"["getSalesClient's" @Transactional requirement is incompatible with the one for this method.(›éñÜúÿÿÿÿ

@@ -1,0 +1,14 @@
+
+`
+java:S22594"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(´âÄ
+`
+java:S2259-"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(´âÄ
+H
+java:S1172H"-Remove this unused method parameter "search".(üÈêıÿÿÿÿ
+i
+java:S1128"LRemove this unused import 'com.team.cobi.logistics.dto.InboundListResponse'.(·¼ıˆ8Ø¬‘Á0
+e
+java:S1128
+"CRemove this unused import 'com.team.cobi.logistics.entity.Inbound'.( üÛ»ıÿÿÿÿ8Ø¬‘Á0
+
+java:S1128"]Remove this unused import 'com.team.cobi.purchase.entity.QPurchaseEstimate.purchaseEstimate'.(¤êÍ°ÿÿÿÿÿ8Ø¬‘Á0

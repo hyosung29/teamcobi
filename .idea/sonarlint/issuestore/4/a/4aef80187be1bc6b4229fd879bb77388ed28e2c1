@@ -1,0 +1,5 @@
+
+W	java:S107X"BConstructor has 10 parameters, which is greater than 7 authorized.(î®„‰
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷íÏ–
+`
+java:S1128"CRemove this unused import 'com.team.cobi.util.exception.UtilClass'.(½¶Èà8‡üžÎ¿0

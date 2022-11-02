@@ -1,0 +1,10 @@
+
+g
+java:S2259'"JA "NullPointerException" could be thrown; "getQuerydsl()" can return null.(ÏæáÂ8Êïæ©À0
+^	java:S125"<This block of commented-out lines of code should be removed.(Øï˜Œüÿÿÿÿ8€­ØÁ0
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(¾€ã¾8Öïæ©À0
+b
+java:S1128
+"ERemove this unused import 'com.team.cobi.logistics.entity.Inventory'.(´ö­İ8İ‡˜œÁ0
+J
+java:S1144d"-Remove this unused private "itemTest" method.(¸šˆÆ8Ç»—œÁ0

@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÔ•ÿúÿÿÿÿ
+X	java:S125)"<This block of commented-out lines of code should be removed.(»ƒïí8ƒ®Ë¶¾0
+‚
+java:S1128"`Remove this unused import 'com.team.cobi.employee.employeeManagement.dto.EmployeeUpdateRequest'.(Š­ä·þÿÿÿÿ8×“˜›¿0
+x
+java:S1128"VRemove this unused import 'com.team.cobi.employee.employeeManagement.entity.Employee'.( Ð»½úÿÿÿÿ8Ø“˜›¿0
